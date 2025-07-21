@@ -1,0 +1,22 @@
+Custom License for JEDI GCode Tools
+© 2025 Dorian Vanhorenbeeck — www.dv-concept.be
+
+This software is distributed as source-available with conditions.
+
+You are permitted to:
+- Use this software for personal, educational, or professional work
+- Modify and adapt it for your own use
+- Include it in your own Grasshopper definitions
+
+Under the following conditions:
+1. Any redistribution, copy, or integration in public or commercial tools must be requested and explicitly authorized by the author (Dorian Vanhorenbeeck).
+2. The author's name ("Dorian Vanhorenbeeck") and project name ("JEDI GCode Tools") must be visibly credited in any derived work or distribution.
+3. The software must not be sold or redistributed without prior written consent.
+4. The license and this notice must be included in any permitted copy or modification.
+
+This license does not grant the right to publish the code or plugin on external repositories without permission.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
+
+To request redistribution rights or partnership:
+Contact: dorian@dv-concept.be or visit www.dv-concept.be
